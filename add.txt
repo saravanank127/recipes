@@ -1,0 +1,12 @@
+line4
+B
+B
+B
+A
+B
+
+
+
+line 1
+line2
+line3
